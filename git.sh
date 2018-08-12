@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pyhton RAA_eChem.Thread_MA_V_3.py
+python RAA_eChem.Thread_MA_V_3.py
 
 wait
 
